@@ -68,6 +68,6 @@ Welcome to my GitHub profile! I'm an engineering student from **Sardar Patel** w
 
 ## 📫 How to Reach Me:
 - **Email**: tanvi.patil22@spit.ac.in
-- **LinkedIn**: [your-linkedin](www.linkedin.com/in/tanvi-patil-883a39253)
+- **LinkedIn**: [Tanvi Patil](www.linkedin.com/in/tanvi-patil-883a39253)
 
 Thanks for visiting my profile! Feel free to check out my repositories, and don't hesitate to reach out for collaboration or questions. 😊
