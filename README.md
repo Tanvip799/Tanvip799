@@ -22,6 +22,13 @@ Welcome to my GitHub profile! I'm an engineering student from **Sardar Patel** w
 - **Sign Language Translator**: A real-time sign language translation system based on CNN classification.
 - **Business Analytics Projects**: Focusing on customer segmentation, sales prediction, churn prediction, and stock runout prediction.
 - **Career Roadmap Platform**: A web-based platform to help engineering students chart their career paths with features like roadmap generation, progress tracking, and mentorship.
+## 💻 Skills:
+![HTML](https://img.shields.io/badge/HTML-5%20-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3%20-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%20-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
 ## 💻 Skills:
 - **Frontend**: React, Next.js, JavaScript, HTML, CSS
