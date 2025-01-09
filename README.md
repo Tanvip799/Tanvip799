@@ -67,8 +67,7 @@ Welcome to my GitHub profile! I'm an engineering student from **Sardar Patel** w
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
 
 ## 📫 How to Reach Me:
-- **Email**: your-email@example.com
-- **LinkedIn**: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- **Personal Website**: [your-website.com](https://your-website.com)
+- **Email**: tanvi.patil22@spit.ac.in
+- **LinkedIn**: [your-linkedin](www.linkedin.com/in/tanvi-patil-883a39253)
 
 Thanks for visiting my profile! Feel free to check out my repositories, and don't hesitate to reach out for collaboration or questions. 😊
