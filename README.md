@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tanvi Patil 👋
 
 Welcome to my GitHub profile! I'm an engineering student from **Sardar Patel** with a passion for **web development** and **data science**. I specialize in **React**, **Next.js**, and **Python**, and I love working on projects that involve **machine learning**, **data analysis**, and **AI**.
 
